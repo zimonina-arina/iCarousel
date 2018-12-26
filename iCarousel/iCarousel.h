@@ -159,6 +159,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)reloadItemAtIndex:(NSInteger)index animated:(BOOL)animated;
 
 - (void)reloadData;
+- (void)transformItemViews;
 
 @end
 
